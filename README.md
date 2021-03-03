@@ -1,2 +1,8 @@
 # ljb-work
-mydailywork
+
+#include<stdio.h>
+
+int mian()
+{
+  printf("hello world\n");
+}
